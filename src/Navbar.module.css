@@ -1,8 +1,9 @@
 .contents{
-    
+    text-align: center;
+    -webkit-text-fill-color: whitesmoke;
     display: flex;
     right: 0px;
-    background-color: rgb(103, 103, 199);
+    background-color: rgb(43, 38, 38);
     justify-content:flex-end;
     font-weight: 400;
     padding-left: 80%;
@@ -13,9 +14,10 @@
     font-family: 'Lato', sans-serif;
     margin-right: 0%;
 }
-ul:hover {
+
+ul:hover{
     cursor: pointer;
+    font-family: 'Lato', sans-serif;
     font-weight: 450;
-    transform: scale(1.2)
-    translateY(-10%);
-  }
+    transform: scale(1.2);
+}

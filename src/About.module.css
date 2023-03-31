@@ -1,0 +1,11 @@
+.about{
+   
+    height: 690px;
+}
+img{
+    width:290px;
+    height:290px;
+    padding-top: 10px;
+    border-radius:2%;
+    border-color: black;
+}

@@ -2,7 +2,13 @@ import classes from './Home.module.css';
 function Home(){
     return(
         <div className={classes.home}>
-        <p>1</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p><p>hello</p>
+            <div className={classes.text}>
+            <p>HI,<br></br>I am Rishav Mahapatra.</p>
+            <p className={classes.subtext}>I'm a Web Developer.</p>
+            </div>
+            
+
+
         </div>
     )
 }
