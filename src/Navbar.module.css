@@ -1,0 +1,21 @@
+.contents{
+    
+    display: flex;
+    right: 0px;
+    background-color: rgb(103, 103, 199);
+    justify-content:flex-end;
+    font-weight: 400;
+    padding-left: 80%;
+    padding-right: 5%;
+    position: fixed;
+    box-shadow: 0 2px 4px 0 rgba(50, 151, 233, 0.3);
+    height: 8vh;
+    font-family: 'Lato', sans-serif;
+    margin-right: 0%;
+}
+ul:hover {
+    cursor: pointer;
+    font-weight: 450;
+    transform: scale(1.2)
+    translateY(-10%);
+  }
