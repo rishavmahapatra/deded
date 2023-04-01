@@ -1,5 +1,5 @@
 .home{
-    background-color: rgb(227, 238, 230);
+    
     padding-top: 45px;
     height: 690px;
     font-family: 'Anton', sans-serif;
@@ -7,16 +7,16 @@
 
 .text{
     text-align: left;
-    font-size: 100px;
+    font-size: 570%;
     margin-left: 20px;
     margin-bottom: 0px;
     padding-bottom: 0px;
-    
+    -webkit-text-fill-color: rgb(19, 23, 29);
 
 }
 .subtext{
     
-    font-size: 60px;
+    font-size: 75%;
     margin-top: -60px;
     
     -webkit-text-fill-color: rgb(107, 14, 14);
