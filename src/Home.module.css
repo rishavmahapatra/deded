@@ -7,7 +7,7 @@
 
 .text{
     text-align: left;
-    font-size: 7vw;
+    font-size: 520%;
     margin-left: 20px;
     margin-bottom: 0px;
     padding-bottom: 0px;
@@ -16,7 +16,7 @@
 }
 .subtext{
     
-    font-size: 4vw;
+    font-size: 70%;
     margin-top: -60px;
     
     -webkit-text-fill-color: rgb(107, 14, 14);
