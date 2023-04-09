@@ -1,13 +1,14 @@
+import Contact from './Contact';
 import classes from './Navbar.module.css';
 function Navbar(){
     return(
     <div className={classes.contents}>
-        <ul className={classes.home}>HOME</ul>
-        <ul className={classes.about}>ABOUT</ul>
-        <ul className={classes.skills}>SKILLS</ul>
-        <ul className={classes.contact}>CONTACT</ul>
-        
-
+    <ul>
+  <li><a href="home">Home</a></li>
+  <li><a href="news.asp">Skills</a></li>
+  <li><a href="contact.asp">Contact</a>onClick={Contact}</li>
+  <li><a href="about.asp">About</a></li>
+</ul>
     </div>
     )
 }

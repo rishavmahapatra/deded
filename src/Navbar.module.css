@@ -1,4 +1,32 @@
-.contents{
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-family: 'Lato', sans-serif;
+    text-align: end;
+  }
+  
+  li {
+    display:inline-flex;
+
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+/* .contents{
     text-align: center;
     -webkit-text-fill-color: whitesmoke;
     display: flex;
@@ -15,9 +43,10 @@
     margin-right: 0%;
 }
 
-ul:hover{
+
+ ul:hover{
     cursor: pointer;
     font-family: 'Lato', sans-serif;
     font-weight: 450;
     transform: scale(1.2);
-}
+}*/
