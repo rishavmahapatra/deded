@@ -1,24 +1,28 @@
-.home{
-    
-    padding-top: 45px;
-    height: 690px;
-    font-family: 'Anton', sans-serif;
+.home {
+  padding-top: 45px;
+  
+  font-family: "Anton", sans-serif;
 }
 
-.text{
-    text-align: left;
-    font-size: 570%;
-    margin-left: 20px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-    -webkit-text-fill-color: rgb(19, 23, 29);
-
+.FaLinkedin{
+    color: #286cd1;
 }
-.subtext{
-    
-    font-size: 75%;
-    margin-top: -60px;
-    
-    -webkit-text-fill-color: rgb(107, 14, 14);
-    
+
+
+.FaGithub, .FaInstagram{
+    color:#286cd1;
+}
+
+.text {
+  text-align: left;
+  font-size: 570%;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  -webkit-text-fill-color: rgb(19, 23, 29);
+}
+.subtext {
+  font-size: 75%;
+  margin-top: -60px;
+  -webkit-text-fill-color: rgb(107, 14, 14);
 }

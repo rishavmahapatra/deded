@@ -1,10 +1,10 @@
-import Modal from "./modal";
+import Modal from "./Modal";
 
 function Contact(){
     return(
         <>
         <Modal>
-             <h1>Hello</h1>
+             <h1>Hello Rishav .</h1>
         </Modal>
         </>
     )
