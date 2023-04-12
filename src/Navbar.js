@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //import Contact from './Contact';
+=======
+
+>>>>>>> 274e0ee15fb333026cbe3e90f7553a028bbb2af2
 import classes from './Navbar.module.css';
 function Navbar(){
     return(
