@@ -5,7 +5,7 @@ function Modal(props) {
     <>
       <div className={classes.backdrop} onClick={props.onClose} />
       <dialog open className={classes.modal}>
-        //{props.children}
+        {props.children}
       </dialog>
     </>
   );
