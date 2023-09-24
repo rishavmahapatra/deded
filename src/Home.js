@@ -6,7 +6,7 @@ function Home() {
     <div className={classes.home}>
       <div className={classes.text}>
         <p>
-          Hi, </br> Rishav Mahapatra.
+          Hi,</br>I'm Rishav Mahapatra.
         </p>
         <p className={classes.subtext}>I'm a Full-stack Developer.</p>
         <div className={classes.icons}>
