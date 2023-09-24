@@ -6,9 +6,9 @@ function Home() {
     <div className={classes.home}>
       <div className={classes.text}>
         <p>
-          Hi,<br/>I am Rishav Mahapatra.
+          Rishav Mahapatra.
         </p>
-        <p className={classes.subtext}>I'm a Web Developer.</p>
+        <p className={classes.subtext}>I'm a Full-stack Developer.</p>
         <div className={classes.icons}>
           <a href="https://www.instagram.com/me_rishav3">
             <FaLinkedin className={classes.FaLinkedin}/>
