@@ -4,7 +4,7 @@ function Contact(){
     return(
         <>
         <Modal>
-             <h1>Hello  </h1>
+             <h1>Hello </h1>
         </Modal>
         </>
     )
